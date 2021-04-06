@@ -1,2 +1,6 @@
 This is my1st line code. Please dont update this file
+<<<<<<< HEAD
 This is my 2nd line code. Please update in Git HUb only.
+=======
+And I have updated in GIT Hub.
+>>>>>>> 7f9b8e0f55fb102bedefa44ac3a03fd9061da728
